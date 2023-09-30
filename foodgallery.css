@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Croissant+One&family=DynaPuff:wght@500&family=Hind:wght@300&family=Homemade+Apple&family=Mooli&family=Nunito+Sans:opsz,wght@6..12,700&family=PT+Serif&family=Rubik:wght@300;400&family=Skranji:wght@400;700&family=Young+Serif&display=swap');img{
+    height: 185px;
+    width: 76%;
+    padding: 20px;
+    border-radius: 60px;
+    transition: 1.5s ease-in;
+}
+img:hover{
+    transform: scale(1.5);
+}
+h1{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    font-size: xx-large;
+    text-align: center;
+    padding-left: 5px;
+    padding-top: 164px;
+    font-family: 'Young Serif', serif;
+}
+.search{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: right;
+    position: absolute;
+    right: 267px;
+    top: 80px;
+    height: 30px;
+    width: 15px;
+}
+#d4{
+    position: absolute;
+    right: -148px;
+    top: 8px;
+}
+
+h2{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    font-size: xx-large;
+    text-align: center;
+    justify-content: flex-start;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    padding-top: 92px;
+    font-family: 'Young Serif', serif;
+}
+#d2{
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    border-radius: 30px;
+    color: white;
+    background-color: rgb(19, 18, 18);
+    transition: 1.5s ease-in-out;
+}
+button:hover{
+    background-color: cadetblue;
+    transform:scale(1.5);
+}
+
+
+
+
